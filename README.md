@@ -1,4 +1,4 @@
-# 19CS415-Diffee-Hellman-Algorithm
+# EX-10-DIFFIE-HELLMAN KEY EXCHANGE ALGORITHM
 ## AIM:
 To implement the Diffee Hellman Algoirthm using C or Python.
 ## DESIGN STEPS:
